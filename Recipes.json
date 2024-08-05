@@ -4,9 +4,9 @@
       "name": "Berry Smoothie",
       "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
       "ingredients": [
-        {"Strawberries": "1"}, 
-        {"Blueberries": "2"},
-        {"Milk": "1/2"}
+        {"name": "Strawberries", "quantity": "1"}, 
+        {"name": "Blueberries", "quantity": "2"},
+        {"name": "Milk", "quantity": "1/2"}
       ],
       "isFavorite": false
     },
@@ -14,9 +14,9 @@
       "name": "Yogurt",
       "image": "https://www.allrecipes.com/thmb/bRg6T06M92G2smbIuaiGsVc4U2s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1028395-authentic-homemade-yogurt-MTRmenian-4x3-1-0c66078e9bd64cada5606bf2d85db601.jpg",
       "ingredients": [
-        {"Strawberries": "1"}, 
-        {"Blueberries": "2"},
-        {"Milk": "1/2"}
+        {"name": "Strawberries", "quantity": "1"}, 
+        {"name": "Blueberries", "quantity": "2"},
+        {"name": "Protein Yogurt", "quantity": "1"}
       ],
       "isFavorite": false
     }
