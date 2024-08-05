@@ -1,0 +1,8 @@
+{
+  "name": "Berry Smoothie",
+  "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
+  "ingredients": {"Strawberries": "1", 
+                  "Blueberries": "2",
+                 "Milk": "1/2"},
+  "isFavorite": false
+}
