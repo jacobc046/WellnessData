@@ -4,9 +4,9 @@
       "name": "Berry Smoothie",
       "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
       "ingredients": [
-        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": " - "}, 
-        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8"},
-        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4"}
+        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": " - ", "units": "cups"}, 
+        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8", "units": "tsp"},
+        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4", "units": "tbsp"}
       ],
       "isFavorite": false
     },
@@ -14,9 +14,9 @@
       "name": "Yogurt",
       "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
       "ingredients": [
-        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": " - "}, 
-        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8"},
-        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4"}
+        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": " - ", "units": "cups"}, 
+        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8", "units": "tsp"},
+        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4", "units": "tbsp"}
       ],
       "isFavorite": false
     }
