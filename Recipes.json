@@ -4,9 +4,9 @@
       "name": "Berry Smoothie",
       "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
       "ingredients": [
-        {"name": "Strawberries", "quantity": "1"}, 
-        {"name": "Blueberries", "quantity": "2"},
-        {"name": "Milk", "quantity": "1/2"}
+        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": " - "}, 
+        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8"},
+        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4"}
       ],
       "isFavorite": false
     },
@@ -14,9 +14,9 @@
       "name": "Yogurt",
       "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
       "ingredients": [
-        {"name": "Strawberries", "quantity": "1"}, 
-        {"name": "Blueberries", "quantity": "2"},
-        {"name": "Protein Yogurt", "quantity": "1"}
+        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": " - "}, 
+        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8"},
+        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4"}
       ],
       "isFavorite": false
     }
