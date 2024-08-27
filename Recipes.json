@@ -1,24 +1,14 @@
 {
-  "recipes": [
-    {
-      "name": "Berry Smoothie",
-      "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
-      "ingredients": [
-        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": "", "units": "cups"}, 
-        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8", "units": "tsp"},
-        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4", "units": "tbsp"}
-      ],
-      "isFavorite": false
-    },
-    {
-      "name": "Yogurt",
-      "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
-      "ingredients": [
-        {"name": "Strawberries", "wholeQuantity": "1", "fractionalQuantity": "", "units": "cups"}, 
-        {"name": "Blueberries", "wholeQuantity": "2", "fractionalQuantity": "1/8", "units": "tsp"},
-        {"name": "Milk", "wholeQuantity": "1/2", "fractionalQuantity": "1/4", "units": "tbsp"}
-      ],
-      "isFavorite": false
-    }
-  ]
+  "name": "Berry Smoothie",
+  "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
+  "ingredients": " • line one \n • line two",
+  "steps": " • line one \n • line two",
+  "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+},
+{
+  "name": "Yogurt",
+  "image": "https://www.jessicagavin.com/wp-content/uploads/2020/07/berry-smoothie-8-1200-500x500.jpg",
+  "ingredients": " • line one \n • line two",
+  "steps": " • line one \n • line two",
+  "notes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 }
